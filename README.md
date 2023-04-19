@@ -4,7 +4,7 @@
   <h3><b>Portfolio</b></h3>
 </div>
 
-# 📗 Table of Contents
+<!-- # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Walk through](#walk-through)
@@ -25,11 +25,11 @@
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ](#faq)
-- [📝 License](#license)
+- [📝 License](#license) -->
 
 # 📖 Portfolio<a name="about-project"></a>
 
-**Portfolio** is a project initiated during the first module of the microverse program. This project is aimed to create a professional portfolio.
+<!-- **Portfolio** is a project initiated during the first module of the microverse program. This project is aimed to create a professional portfolio. -->
 
 ## 🛠 Walk thought <a name="walk-through"></a>
 
@@ -38,53 +38,53 @@ https://www.loom.com/share/4679e5bb203e4d5aa4aea6bb67035886
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+<!-- ### Tech Stack <a name="tech-stack"></a> -->
 
-<details>
+<!-- <details>
   <summary>Client</summary>
   <ul>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
   </ul>
-</details>
+</details> -->
 
-### Key Features <a name="key-features"></a>
+<!-- ### Key Features <a name="key-features"></a> -->
 
-- **Displays my current status as a software developer**
+<!-- - **Displays my current status as a software developer**
 - **Lists my recent works**
-- **Showcases Languages, Frameworks and Skills**
+- **Showcases Languages, Frameworks and Skills** -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- The Live Demo of this portfolio can be found at: https://kalbek.github.io/Portfolio/
+<!-- - The Live Demo of this portfolio can be found at: -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
+<!-- To get a local copy up and running, follow these steps. -->
 
 ### Prerequisites
 
-In order to run this project you need a web browser
+<!-- In order to run this project you need a web browser -->
 
 ### Setup
 
-Clone this repository to your desired folder:
+<!-- Clone this repository to your desired folder: -->
 
 ### Install
 
-Install this project using the cloned repo or download and use the files to your local machine.
+<!-- Install this project using the cloned repo or download and use the files to your local machine. -->
 
 ### Usage
 
-To run the project open the index.html file in your web browser
+<!-- To run the project open the index.html file in your web browser -->
 
 ### Run tests
 
-No test are available
+<!-- No test are available -->
 
 ### Deployment
 
-This project is deployed at github pages
+<!-- This project is deployed at github pages -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -127,4 +127,4 @@ Feel free to check the [issues page](../../issues/). -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+<!-- This project is [MIT](./MIT.md) licensed. -->
