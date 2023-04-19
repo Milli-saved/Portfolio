@@ -33,8 +33,8 @@
 
 ## 🛠 Walk thought <a name="walk-through"></a>
 
-watch the loom video to the walkthrough of this video at:
-https://www.loom.com/share/4679e5bb203e4d5aa4aea6bb67035886
+<!-- watch the loom video to the walkthrough of this video at:
+https://www.loom.com/share/4679e5bb203e4d5aa4aea6bb67035886 -->
 
 ## 🛠 Built With <a name="built-with"></a>
 
