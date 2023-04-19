@@ -54,13 +54,9 @@ https://www.loom.com/share/4679e5bb203e4d5aa4aea6bb67035886
 - **Lists my recent works**
 - **Showcases Languages, Frameworks and Skills**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - The Live Demo of this portfolio can be found at: https://kalbek.github.io/Portfolio/
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -90,42 +86,34 @@ No test are available
 
 This project is deployed at github pages
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Kaleb Bekele**
+<!-- 👤 **Kaleb Bekele**
 
 - GitHub: [@githubhandle](https://github.com/kalbek)
 - Twitter: [@twitterhandle](https://twitter.com/KNuramo)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kaleb-nuramo/)
-- Website: https://kalbek.github.io/Portfolio/
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- Website: https://kalbek.github.io/Portfolio/ -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+<!--
 - [ ] **The modal part of the portfolio will be added.**
-- [ ] **Links to project showcases will be active with JavaScript**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- [ ] **Links to project showcases will be active with JavaScript** -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome!
+<!-- Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
-
+Feel free to check the [issues page](../../issues/). -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project give a star to this repositiory.
-
+<!-- If you like this project give a star to this repositiory. -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank the Microverse full-stack curriculum for the inspiration and guidance.
-
+<!-- I would like to thank the Microverse full-stack curriculum for the inspiration and guidance. -->
 
 ## ❓ FAQ <a name="faq"></a>
 
