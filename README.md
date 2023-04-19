@@ -62,27 +62,27 @@ https://www.loom.com/share/4679e5bb203e4d5aa4aea6bb67035886 -->
 
 <!-- To get a local copy up and running, follow these steps. -->
 
-### Prerequisites
+<!-- ### Prerequisites -->
 
 <!-- In order to run this project you need a web browser -->
 
-### Setup
+<!-- ### Setup -->
 
 <!-- Clone this repository to your desired folder: -->
 
-### Install
+<!-- ### Install -->
 
 <!-- Install this project using the cloned repo or download and use the files to your local machine. -->
 
-### Usage
+<!-- ### Usage -->
 
 <!-- To run the project open the index.html file in your web browser -->
 
-### Run tests
+<!-- ### Run tests -->
 
 <!-- No test are available -->
 
-### Deployment
+<!-- ### Deployment -->
 
 <!-- This project is deployed at github pages -->
 
